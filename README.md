@@ -1,7 +1,14 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Web de circo estudio" width="100%">
+</p>
+
 # Web de circo estudio · generación estática, Fastify y PostgreSQL
+
+![en producción](https://img.shields.io/badge/estado-en%20producci%C3%B3n-2EA043?style=flat-square) ![proyecto propio](https://img.shields.io/badge/proyecto%20propio-7C6CF0?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 **En vivo:** https://circoestudio.com
 
+> [!NOTE]
 > **Proyecto propio de circo estudio.** La web del estudio, hecha a medida: páginas estáticas que sirve Nginx, un panel de administración que las regenera al guardar, un formulario de contacto con defensas propias, un blog que se alimenta desde n8n y un portal privado para clientes. Incluye [fragmentos del código real](snippets/), recortados.
 
 ## El problema
